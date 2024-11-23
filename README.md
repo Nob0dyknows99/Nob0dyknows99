@@ -39,6 +39,10 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
 
-##  &nbsp; Check out my Linkedin
+### 📱 &nbsp; Check out my Social Media
+
+<a href="https://www.instagram.com/_nob0dyknows/profilecard/?igsh=MWUwbGdocHo1azJmOA==">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
 
 
