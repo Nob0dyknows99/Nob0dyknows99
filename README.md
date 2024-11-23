@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on my way to learn more about mobile app development and UX/UI design.\
 ⏰ &nbsp;In my free time, I spend my time looking for inspiration in UI design, reading books and going to the gym.\
 ✉️ &nbsp;You can shoot me an email at luis.arevalo@alu.ucm.cl! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](Curriculum.pdf) for more details about me. I'm open to feedback and suggestions!\
+📄 &nbsp;Please have a look at my [Resume](Curriculum.pdf) for more details about me. I'm open to feedback and suggestions![Spanish resume](Curriculum.pdf)\
 😄 Fun fact: I love Cars(🚗), Codeing(💻), Camping(🏕️).
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
